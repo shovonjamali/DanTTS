@@ -1,4 +1,4 @@
-# dantts
+# DanTTS
 Danish Text-To-Speech and Voice Cloning scripts
 
 ## Data sources
